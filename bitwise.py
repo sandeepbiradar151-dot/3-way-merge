@@ -26,3 +26,6 @@ print(a << 2)
 # >> bitwise rightshift operator shifts the bits to right
 
 print(a >> 2)
+
+# // bitwise floor division operator
+print(a // 2)
