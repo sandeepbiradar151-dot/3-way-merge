@@ -1,3 +1,3 @@
-arithematic operator
+arithmetic operator
 
-updating the file for release branch
+updating the file for release
